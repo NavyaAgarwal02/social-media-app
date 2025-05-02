@@ -1,4 +1,4 @@
-# [EchSphere - Social media platform]
+# Social media platform
 Engage is a social media platform built using the MERN stack, designed to facilitate content creation, user interactions, and secure authentication.
 
 ## Features
